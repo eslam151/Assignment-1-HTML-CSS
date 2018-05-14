@@ -1,0 +1,15 @@
+
+.h_color {
+    color: yellow;
+}
+.color {
+    color: teal;
+}
+.l-color { 
+    color: red;
+}
+
+img {
+    width: 500px; 
+    height: 300px;
+}
